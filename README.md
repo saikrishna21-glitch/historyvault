@@ -146,3 +146,4 @@ output options per your host's Next.js guide.
 - Lazy-loaded images via `next/image` (except above-the-fold hero images)
 - SEO: per-page metadata, Open Graph tags, dynamic `sitemap.xml` and `robots.txt`
 - Fully responsive from mobile through desktop
+# historyvault
