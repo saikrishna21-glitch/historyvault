@@ -1,0 +1,246 @@
+[
+  {
+    "slug": "george-washington",
+    "name": "George Washington",
+    "title": "1st President of the United States",
+    "country": "United States",
+    "era": "18th century",
+    "category": "Founding & Independence",
+    "birthYear": 1732,
+    "deathYear": 1799,
+    "portraitUrl": "/portraits/george-washington.svg",
+    "summary": "Commander of the Continental Army during the American Revolution and the first President of the United States, serving two terms from 1789 to 1797.",
+    "biography": "George Washington led the American colonies to independence from Britain and then presided over the creation of a new federal government, establishing precedents for the presidency that endured for generations.",
+    "earlyLife": "Born in 1732 in Westmoreland County, Virginia, to a moderately prosperous planter family, Washington worked as a surveyor in his youth and gained early military experience as an officer in the Virginia militia during the French and Indian War.",
+    "riseToPower": "In 1775 the Second Continental Congress appointed Washington commander-in-chief of the Continental Army. Despite early setbacks, he held the army together through the winter at Valley Forge and secured the decisive victory at Yorktown in 1781. He was unanimously elected the first President in 1789.",
+    "majorAchievements": [
+      "Commanded the Continental Army to victory in the American Revolutionary War",
+      "Presided over the Constitutional Convention of 1787",
+      "Established key precedents of the presidency, including a peaceful transfer of power",
+      "Declined a third term, reinforcing the principle of limited executive tenure"
+    ],
+    "leadershipStyle": "Washington was known for personal restraint, a strong sense of civic duty, and a willingness to relinquish power voluntarily — choices that shaped republican norms in the young United States.",
+    "speeches": [
+      { "title": "First Inaugural Address", "year": "1789", "excerptNote": "Delivered to Congress in New York, emphasizing dependence on Providence and the experimental nature of republican government." },
+      { "title": "Farewell Address", "year": "1796", "excerptNote": "Published rather than spoken; warned against political factionalism and permanent foreign alliances." }
+    ],
+    "timeline": [
+      { "year": "1753", "label": "Serves as a militia officer during the French and Indian War" },
+      { "year": "1775", "label": "Appointed commander-in-chief of the Continental Army" },
+      { "year": "1781", "label": "Victory at the Siege of Yorktown" },
+      { "year": "1787", "label": "Presides over the Constitutional Convention" },
+      { "year": "1789", "label": "Inaugurated as first U.S. President" },
+      { "year": "1797", "label": "Leaves office after two terms" }
+    ],
+    "legacy": "Washington's decision to step away from power after two terms, and his role in shaping the presidency, made him a lasting symbol of republican leadership in the United States.",
+    "tags": ["American Revolution", "Presidency", "18th century", "United States"],
+    "references": [
+      { "label": "Britannica — George Washington", "url": "https://www.britannica.com/biography/George-Washington", "publisher": "Encyclopaedia Britannica" },
+      { "label": "National Archives — George Washington", "url": "https://www.archives.gov/founding-docs", "publisher": "U.S. National Archives" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "napoleon-bonaparte",
+    "name": "Napoleon Bonaparte",
+    "title": "Emperor of the French",
+    "country": "France",
+    "era": "18th–19th century",
+    "category": "Military & Empire",
+    "birthYear": 1769,
+    "deathYear": 1821,
+    "portraitUrl": "/portraits/napoleon-bonaparte.svg",
+    "summary": "French military commander who rose through the ranks of the Revolutionary army to seize political power in 1799 and crown himself Emperor in 1804, reshaping European borders and legal codes before his defeat at Waterloo in 1815.",
+    "biography": "Napoleon Bonaparte was a Corsican-born artillery officer whose battlefield successes during the French Revolutionary Wars propelled him to national prominence. He seized control of the French government in a 1799 coup, later became Emperor, and dominated continental Europe militarily for over a decade.",
+    "earlyLife": "Born in 1769 in Ajaccio, Corsica, shortly after the island came under French control, Napoleon attended French military schools and was commissioned as an artillery officer, distinguishing himself early through technical skill and ambition.",
+    "riseToPower": "Napoleon gained fame for his role recapturing Toulon in 1793 and his Italian campaigns of 1796–97. In 1799 he took part in the coup of 18 Brumaire, becoming First Consul, and in 1804 he crowned himself Emperor of the French.",
+    "majorAchievements": [
+      "Issued the Napoleonic Code, a civil law framework that influenced legal systems worldwide",
+      "Reorganized French administration, education, and finance",
+      "Won major military victories including Austerlitz (1805)",
+      "Expanded French influence across much of continental Europe"
+    ],
+    "leadershipStyle": "Napoleon combined centralized, top-down authority with a talent for propaganda and personal charisma, relying on rapid military decision-making and administrative reform to consolidate power.",
+    "speeches": [
+      { "title": "Address to the Army of Italy", "year": "1796", "excerptNote": "Rallied troops early in his career by emphasizing glory and material reward for victory." },
+      { "title": "Farewell to the Old Guard", "year": "1814", "excerptNote": "Delivered at Fontainebleau upon his first abdication, expressing gratitude to his soldiers." }
+    ],
+    "timeline": [
+      { "year": "1785", "label": "Commissioned as an artillery officer" },
+      { "year": "1796", "label": "Leads the Italian campaign" },
+      { "year": "1799", "label": "Coup of 18 Brumaire; becomes First Consul" },
+      { "year": "1804", "label": "Crowned Emperor of the French" },
+      { "year": "1805", "label": "Victory at the Battle of Austerlitz" },
+      { "year": "1812", "label": "Disastrous invasion of Russia" },
+      { "year": "1815", "label": "Defeated at the Battle of Waterloo" },
+      { "year": "1821", "label": "Dies in exile on Saint Helena" }
+    ],
+    "legacy": "Napoleon's legal and administrative reforms outlasted his empire and influenced legal systems across Europe and beyond, while his military campaigns reshaped the map of the continent and set the stage for 19th-century nationalism.",
+    "tags": ["French Revolution", "Napoleonic Wars", "Empire", "19th century"],
+    "references": [
+      { "label": "Britannica — Napoleon I", "url": "https://www.britannica.com/biography/Napoleon-I", "publisher": "Encyclopaedia Britannica" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "abraham-lincoln",
+    "name": "Abraham Lincoln",
+    "title": "16th President of the United States",
+    "country": "United States",
+    "era": "19th century",
+    "category": "Founding & Independence",
+    "birthYear": 1809,
+    "deathYear": 1865,
+    "portraitUrl": "/portraits/abraham-lincoln.svg",
+    "summary": "Guided the United States through the Civil War, preserved the Union, and issued the Emancipation Proclamation before his assassination in 1865.",
+    "biography": "Abraham Lincoln rose from a self-educated frontier lawyer to the presidency, leading the nation through its most severe internal crisis and permanently altering its course on the question of slavery.",
+    "earlyLife": "Born in 1809 in a log cabin in Kentucky, Lincoln grew up in modest circumstances in Indiana and Illinois, largely self-taught, and worked as a store clerk, postmaster, and surveyor before turning to law and politics.",
+    "riseToPower": "Lincoln served in the Illinois state legislature and one term in Congress before gaining national attention through his 1858 Senate debates with Stephen Douglas. He won the presidency in 1860 as the Republican candidate, prompting the secession of Southern states.",
+    "majorAchievements": [
+      "Preserved the Union through the Civil War (1861–1865)",
+      "Issued the Emancipation Proclamation in 1863",
+      "Supported passage of the Thirteenth Amendment abolishing slavery",
+      "Delivered the Gettysburg Address, redefining the war's purpose"
+    ],
+    "leadershipStyle": "Lincoln was known for pragmatic political judgment, a capacity for measured compromise balanced with firm moral resolve, and an ability to build a cabinet of political rivals.",
+    "speeches": [
+      { "title": "Gettysburg Address", "year": "1863", "excerptNote": "A brief dedication address reframing the war as a test of government 'of the people, by the people, for the people.'" },
+      { "title": "Second Inaugural Address", "year": "1865", "excerptNote": "Called for reconciliation 'with malice toward none' as the war neared its end." }
+    ],
+    "timeline": [
+      { "year": "1834", "label": "Elected to the Illinois state legislature" },
+      { "year": "1858", "label": "Lincoln–Douglas debates" },
+      { "year": "1860", "label": "Elected 16th President of the United States" },
+      { "year": "1861", "label": "Civil War begins" },
+      { "year": "1863", "label": "Emancipation Proclamation and Gettysburg Address" },
+      { "year": "1865", "label": "War ends; Lincoln is assassinated in April" }
+    ],
+    "legacy": "Lincoln is widely regarded as having preserved the United States as a single nation and set in motion the constitutional end of slavery, making him one of the most studied figures in American history.",
+    "tags": ["American Civil War", "Presidency", "Emancipation", "19th century"],
+    "references": [
+      { "label": "Britannica — Abraham Lincoln", "url": "https://www.britannica.com/biography/Abraham-Lincoln", "publisher": "Encyclopaedia Britannica" },
+      { "label": "National Archives — Emancipation Proclamation", "url": "https://www.archives.gov/milestone-documents/emancipation-proclamation", "publisher": "U.S. National Archives" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "mahatma-gandhi",
+    "name": "Mohandas Karamchand Gandhi",
+    "title": "Leader of the Indian Independence Movement",
+    "country": "India",
+    "era": "20th century",
+    "category": "Independence Movements",
+    "birthYear": 1869,
+    "deathYear": 1948,
+    "portraitUrl": "/portraits/mahatma-gandhi.svg",
+    "summary": "Developed a philosophy of nonviolent civil disobedience that became central to India's independence movement and influenced civil rights struggles worldwide.",
+    "biography": "Mohandas Gandhi, known as Mahatma ('great soul'), led campaigns of nonviolent resistance against British colonial rule in India, drawing on ideas he first tested while working against discriminatory laws in South Africa.",
+    "earlyLife": "Born in 1869 in Porbandar, India, Gandhi trained as a lawyer in London before moving to South Africa, where he spent over two decades opposing discriminatory legislation faced by the Indian community there.",
+    "riseToPower": "Returning to India in 1915, Gandhi became a leading figure in the Indian National Congress, organizing nationwide campaigns such as the Non-Cooperation Movement (1920–22) and the Salt March (1930) that mobilized mass participation in the independence struggle.",
+    "majorAchievements": [
+      "Pioneered mass nonviolent civil disobedience (satyagraha) as a political strategy",
+      "Led the 1930 Salt March in defiance of British salt taxes",
+      "Played a central role in India's path to independence, achieved in 1947",
+      "Influenced later nonviolent movements, including the U.S. civil rights movement"
+    ],
+    "leadershipStyle": "Gandhi's leadership combined moral and spiritual authority with disciplined nonviolent tactics, emphasizing personal example, simplicity, and mass mobilization over centralized command.",
+    "speeches": [
+      { "title": "Quit India Speech", "year": "1942", "excerptNote": "Called for an immediate end to British rule under the banner 'Do or Die.'" }
+    ],
+    "timeline": [
+      { "year": "1893", "label": "Moves to South Africa; begins civil rights activism" },
+      { "year": "1915", "label": "Returns to India" },
+      { "year": "1930", "label": "Leads the Salt March" },
+      { "year": "1942", "label": "Launches the Quit India Movement" },
+      { "year": "1947", "label": "India gains independence" },
+      { "year": "1948", "label": "Assassinated in New Delhi" }
+    ],
+    "legacy": "Gandhi's nonviolent methods reshaped independence movements and civil rights campaigns globally, and he is commemorated in India as the 'Father of the Nation.'",
+    "tags": ["Indian independence", "Nonviolence", "Colonialism", "20th century"],
+    "references": [
+      { "label": "Britannica — Mahatma Gandhi", "url": "https://www.britannica.com/biography/Mohandas-Karamchand-Gandhi", "publisher": "Encyclopaedia Britannica" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "nelson-mandela",
+    "name": "Nelson Mandela",
+    "title": "1st President of South Africa elected in a fully representative democratic election",
+    "country": "South Africa",
+    "era": "20th century",
+    "category": "Independence Movements",
+    "birthYear": 1918,
+    "deathYear": 2013,
+    "portraitUrl": "/portraits/nelson-mandela.svg",
+    "summary": "Anti-apartheid revolutionary who spent 27 years in prison before leading South Africa's transition to multiracial democracy and becoming its president in 1994.",
+    "biography": "Nelson Mandela became a leading figure in the African National Congress's fight against apartheid, was imprisoned for decades on political charges, and emerged to negotiate an end to white-minority rule, later serving as South Africa's first democratically elected president.",
+    "earlyLife": "Born in 1918 in Mvezo in the Eastern Cape, Mandela trained as a lawyer and co-founded one of South Africa's first Black law firms before becoming increasingly involved in anti-apartheid activism through the ANC.",
+    "riseToPower": "Mandela helped lead the ANC's shift toward more assertive resistance in the 1950s and 60s. Arrested in 1962 and later tried in the Rivonia Trial, he was sentenced to life imprisonment in 1964. Released in 1990 amid negotiations to end apartheid, he was elected president in South Africa's first democratic election in 1994.",
+    "majorAchievements": [
+      "Negotiated the peaceful end of apartheid alongside President F.W. de Klerk",
+      "Became South Africa's first president elected in a fully democratic election (1994)",
+      "Established the Truth and Reconciliation Commission to address past abuses",
+      "Co-recipient of the 1993 Nobel Peace Prize"
+    ],
+    "leadershipStyle": "Mandela emphasized reconciliation over retribution, building broad coalitions across racial lines and using personal symbolism — such as public gestures of unity — to ease a fraught political transition.",
+    "speeches": [
+      { "title": "I Am Prepared to Die", "year": "1964", "excerptNote": "Statement from the dock at the Rivonia Trial, affirming his commitment to a democratic and free society." },
+      { "title": "Inaugural Address", "year": "1994", "excerptNote": "Delivered upon becoming president, calling for national unity and reconciliation." }
+    ],
+    "timeline": [
+      { "year": "1944", "label": "Joins the African National Congress" },
+      { "year": "1962", "label": "Arrested by apartheid authorities" },
+      { "year": "1964", "label": "Sentenced to life imprisonment at the Rivonia Trial" },
+      { "year": "1990", "label": "Released from prison after 27 years" },
+      { "year": "1993", "label": "Awarded the Nobel Peace Prize" },
+      { "year": "1994", "label": "Elected President of South Africa" }
+    ],
+    "legacy": "Mandela is remembered globally as a symbol of resistance to racial oppression and of reconciliation, and his presidency marked South Africa's formal transition to multiracial democracy.",
+    "tags": ["Apartheid", "South Africa", "Reconciliation", "20th century"],
+    "references": [
+      { "label": "Britannica — Nelson Mandela", "url": "https://www.britannica.com/biography/Nelson-Mandela", "publisher": "Encyclopaedia Britannica" },
+      { "label": "Nobel Prize — Nelson Mandela", "url": "https://www.nobelprize.org/prizes/peace/1993/mandela/facts/", "publisher": "The Nobel Prize" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "winston-churchill",
+    "name": "Winston Churchill",
+    "title": "Prime Minister of the United Kingdom",
+    "country": "United Kingdom",
+    "era": "20th century",
+    "category": "Military & Empire",
+    "birthYear": 1874,
+    "deathYear": 1965,
+    "portraitUrl": "/portraits/winston-churchill.svg",
+    "summary": "Led Britain as Prime Minister through most of the Second World War, rallying the nation through the Blitz and coordinating Allied strategy.",
+    "biography": "Winston Churchill held numerous government posts before becoming Prime Minister in 1940 at a moment of grave national crisis, and his wartime leadership and oratory became closely tied to Britain's resistance against Nazi Germany.",
+    "earlyLife": "Born in 1874 at Blenheim Palace, Churchill attended Harrow and the Royal Military College, Sandhurst, before serving as a soldier and war correspondent, and entering Parliament in 1900.",
+    "riseToPower": "After decades in government — including as Chancellor of the Exchequer and First Lord of the Admiralty — Churchill became Prime Minister in May 1940 as France fell and Britain faced the threat of invasion.",
+    "majorAchievements": [
+      "Led Britain through the Battle of Britain and the Blitz (1940–41)",
+      "Coordinated Allied strategy with the United States and Soviet Union",
+      "Delivered wartime speeches credited with sustaining British morale",
+      "Awarded the Nobel Prize in Literature in 1953 for his historical and biographical writing"
+    ],
+    "leadershipStyle": "Churchill combined defiant public rhetoric with active involvement in military strategy, and was known for his resilience, historical framing of events, and skill at coalition diplomacy with Allied leaders.",
+    "speeches": [
+      { "title": "We Shall Fight on the Beaches", "year": "1940", "excerptNote": "Delivered to the House of Commons after the Dunkirk evacuation, vowing continued resistance." },
+      { "title": "Their Finest Hour", "year": "1940", "excerptNote": "Rallied the public as the Battle of Britain loomed." }
+    ],
+    "timeline": [
+      { "year": "1900", "label": "Elected to Parliament" },
+      { "year": "1911", "label": "Appointed First Lord of the Admiralty" },
+      { "year": "1940", "label": "Becomes Prime Minister as WWII intensifies" },
+      { "year": "1945", "label": "Leads Britain to victory in Europe; loses general election" },
+      { "year": "1951", "label": "Returns as Prime Minister for a second term" },
+      { "year": "1953", "label": "Awarded the Nobel Prize in Literature" }
+    ],
+    "legacy": "Churchill is remembered chiefly for his role rallying Britain during its most perilous wartime period, though historians continue to debate aspects of his broader imperial record.",
+    "tags": ["World War II", "United Kingdom", "Oratory", "20th century"],
+    "references": [
+      { "label": "Britannica — Winston Churchill", "url": "https://www.britannica.com/biography/Winston-Churchill", "publisher": "Encyclopaedia Britannica" }
+    ],
+    "featured": false
+  }
+]

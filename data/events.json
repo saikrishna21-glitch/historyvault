@@ -1,0 +1,253 @@
+[
+  {
+    "slug": "french-revolution",
+    "title": "The French Revolution",
+    "century": "18th century",
+    "continent": "Europe",
+    "category": "Revolution",
+    "yearStart": 1789,
+    "yearEnd": 1799,
+    "imageUrl": "/events/french-revolution.svg",
+    "summary": "A decade of radical political and social upheaval that overthrew the French monarchy, ended feudal privileges, and reshaped ideas of citizenship and nationhood across Europe.",
+    "background": "By the late 1780s, France faced a severe financial crisis, an unequal tax system that spared the nobility and clergy, and widespread public frustration with royal absolutism under Louis XVI.",
+    "causes": [
+      "Chronic royal debt worsened by costly wars, including support for the American Revolution",
+      "A rigid social hierarchy that concentrated privilege among the nobility and clergy",
+      "Widespread food shortages and rising bread prices in the 1780s",
+      "The spread of Enlightenment ideas questioning absolute monarchy"
+    ],
+    "keyPeople": [
+      { "name": "Louis XVI", "role": "King of France, executed in 1793" },
+      { "name": "Napoleon Bonaparte", "role": "Rose to power at the Revolution's end", "leaderSlug": "napoleon-bonaparte" },
+      { "name": "Maximilien Robespierre", "role": "Leading figure of the Reign of Terror" }
+    ],
+    "timeline": [
+      { "year": "1789", "label": "Storming of the Bastille; National Assembly formed" },
+      { "year": "1791", "label": "France adopts its first written constitution" },
+      { "year": "1793", "label": "Execution of Louis XVI; Reign of Terror begins" },
+      { "year": "1794", "label": "Fall of Robespierre ends the Terror" },
+      { "year": "1799", "label": "Napoleon's coup ends the revolutionary government" }
+    ],
+    "mapNote": "Centered on Paris and spreading through French provinces, with revolutionary and counter-revolutionary conflict extending to France's borders and colonies.",
+    "consequences": [
+      "Abolition of feudal privileges and the old estate system",
+      "Execution of the king and establishment of a republic",
+      "Rise of Napoleon Bonaparte and the Napoleonic Wars",
+      "Spread of revolutionary and nationalist ideas across Europe"
+    ],
+    "longTermImpact": "The Revolution permanently weakened the idea of divine-right monarchy in Europe and popularized concepts of citizenship, nationalism, and secular government that shaped 19th- and 20th-century politics.",
+    "tags": ["Monarchy", "Enlightenment", "Napoleon", "18th century"],
+    "references": [
+      { "label": "Britannica — French Revolution", "url": "https://www.britannica.com/event/French-Revolution", "publisher": "Encyclopaedia Britannica" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "world-war-ii",
+    "title": "World War II",
+    "century": "20th century",
+    "continent": "Global",
+    "category": "War & Conflict",
+    "yearStart": 1939,
+    "yearEnd": 1945,
+    "imageUrl": "/events/world-war-ii.svg",
+    "summary": "The deadliest conflict in human history, fought between the Axis and Allied powers across Europe, Asia, Africa, and the Pacific, ending with the defeat of Nazi Germany and Imperial Japan.",
+    "background": "Rising fascist and militarist regimes in Germany, Italy, and Japan pursued territorial expansion through the 1930s, straining the postwar order established after World War I and the League of Nations' ability to contain aggression.",
+    "causes": [
+      "Punitive terms and instability following World War I",
+      "The rise of Nazi Germany under Adolf Hitler and expansionist policy",
+      "Japanese expansion in East Asia and the Pacific",
+      "Failure of appeasement and collective security to deter aggression"
+    ],
+    "keyPeople": [
+      { "name": "Winston Churchill", "role": "Prime Minister of the United Kingdom", "leaderSlug": "winston-churchill" },
+      { "name": "Adolf Hitler", "role": "Chancellor and Führer of Nazi Germany" },
+      { "name": "Franklin D. Roosevelt", "role": "President of the United States" },
+      { "name": "Joseph Stalin", "role": "Leader of the Soviet Union" }
+    ],
+    "timeline": [
+      { "year": "1939", "label": "Germany invades Poland; Britain and France declare war" },
+      { "year": "1940", "label": "Fall of France; Battle of Britain" },
+      { "year": "1941", "label": "Germany invades the USSR; Japan attacks Pearl Harbor" },
+      { "year": "1944", "label": "Allied D-Day landings in Normandy" },
+      { "year": "1945", "label": "Germany surrenders in May; Japan surrenders in September after atomic bombings" }
+    ],
+    "mapNote": "Fought across European, North African, and Pacific theaters, involving nearly every major power and dozens of countries worldwide.",
+    "consequences": [
+      "Estimated tens of millions of military and civilian deaths, including the Holocaust",
+      "Formation of the United Nations in 1945",
+      "Beginning of the Cold War between the United States and Soviet Union",
+      "Decolonization movements accelerated across Asia and Africa"
+    ],
+    "longTermImpact": "The war reshaped the global balance of power, established the U.S. and USSR as competing superpowers, and led to new international institutions aimed at preventing future large-scale conflict.",
+    "tags": ["Axis Powers", "Allied Powers", "Holocaust", "20th century"],
+    "references": [
+      { "label": "Britannica — World War II", "url": "https://www.britannica.com/event/World-War-II", "publisher": "Encyclopaedia Britannica" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "indian-independence-movement",
+    "title": "The Indian Independence Movement",
+    "century": "20th century",
+    "continent": "Asia",
+    "category": "Independence Movement",
+    "yearStart": 1885,
+    "yearEnd": 1947,
+    "imageUrl": "/events/indian-independence.svg",
+    "summary": "A decades-long political struggle that ended nearly 200 years of British colonial rule in India, culminating in independence and partition in 1947.",
+    "background": "British colonial administration controlled India through the British Raj following the dissolution of the East India Company's rule in 1858, governing a diverse subcontinent while facing growing demands for self-rule.",
+    "causes": [
+      "Economic exploitation and restrictive colonial trade policy",
+      "Growth of Indian nationalist organizations, notably the Indian National Congress (founded 1885)",
+      "Mass mobilization campaigns led by Mahatma Gandhi and others",
+      "Weakening of British global power following World War II"
+    ],
+    "keyPeople": [
+      { "name": "Mahatma Gandhi", "role": "Leader of nonviolent resistance campaigns", "leaderSlug": "mahatma-gandhi" },
+      { "name": "Jawaharlal Nehru", "role": "First Prime Minister of independent India" },
+      { "name": "Muhammad Ali Jinnah", "role": "Founder of Pakistan" }
+    ],
+    "timeline": [
+      { "year": "1885", "label": "Indian National Congress founded" },
+      { "year": "1930", "label": "Gandhi leads the Salt March" },
+      { "year": "1942", "label": "Quit India Movement launched" },
+      { "year": "1947", "label": "India and Pakistan gain independence amid partition" }
+    ],
+    "mapNote": "Spanned the Indian subcontinent, culminating in the 1947 partition into India and Pakistan and large-scale population movement across the new border.",
+    "consequences": [
+      "End of British colonial rule in South Asia",
+      "Partition of British India into India and Pakistan",
+      "Large-scale displacement and communal violence during partition",
+      "Establishment of India as the world's largest democracy"
+    ],
+    "longTermImpact": "The movement became a model for nonviolent resistance worldwide and reshaped the geopolitical map of South Asia, while partition's legacy continues to influence India-Pakistan relations.",
+    "tags": ["Colonialism", "Gandhi", "Partition", "20th century"],
+    "references": [
+      { "label": "Britannica — Indian Independence Movement", "url": "https://www.britannica.com/event/Indian-independence-movement", "publisher": "Encyclopaedia Britannica" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "fall-of-the-berlin-wall",
+    "title": "The Fall of the Berlin Wall",
+    "century": "20th century",
+    "continent": "Europe",
+    "category": "Political Transformation",
+    "yearStart": 1989,
+    "yearEnd": 1989,
+    "imageUrl": "/events/berlin-wall.svg",
+    "summary": "The 1989 collapse of the barrier dividing East and West Berlin, marking the symbolic end of the Cold War division of Europe.",
+    "background": "Since 1961, the Berlin Wall had physically divided the city, separating communist East Berlin from West Berlin and standing as the most visible symbol of the Iron Curtain dividing Europe.",
+    "causes": [
+      "Growing economic stagnation across the Eastern Bloc",
+      "Reform movements under Soviet leader Mikhail Gorbachev, including glasnost and perestroika",
+      "Mass pro-democracy demonstrations across East Germany in 1989",
+      "A miscommunicated East German announcement easing travel restrictions"
+    ],
+    "keyPeople": [
+      { "name": "Mikhail Gorbachev", "role": "Soviet leader whose reforms enabled political change" },
+      { "name": "Egon Krenz", "role": "East German leader during the wall's fall" }
+    ],
+    "timeline": [
+      { "year": "1961", "label": "Berlin Wall constructed, dividing the city" },
+      { "year": "1989 (Nov)", "label": "East German officials announce eased travel rules" },
+      { "year": "1989 (Nov 9)", "label": "Crowds breach the wall at checkpoints" },
+      { "year": "1990", "label": "Formal reunification of Germany" }
+    ],
+    "mapNote": "Centered on the city of Berlin, divided between the Federal Republic of Germany (West) and the German Democratic Republic (East).",
+    "consequences": [
+      "Rapid collapse of communist governments across Eastern Europe",
+      "German reunification in October 1990",
+      "Acceleration of the broader dissolution of the Soviet Union by 1991"
+    ],
+    "longTermImpact": "The fall of the wall is widely seen as the defining symbolic moment of the Cold War's end, reshaping the political map of Europe and accelerating European integration.",
+    "tags": ["Cold War", "Germany", "Communism", "20th century"],
+    "references": [
+      { "label": "History.com — Berlin Wall", "url": "https://www.history.com/topics/cold-war/berlin-wall", "publisher": "History.com" }
+    ],
+    "featured": false
+  },
+  {
+    "slug": "apollo-11-moon-landing",
+    "title": "The Apollo 11 Moon Landing",
+    "century": "20th century",
+    "continent": "Global",
+    "category": "Science & Discovery",
+    "yearStart": 1969,
+    "yearEnd": 1969,
+    "imageUrl": "/events/apollo-11.svg",
+    "summary": "NASA's Apollo 11 mission achieved the first crewed Moon landing on July 20, 1969, fulfilling a national goal set by President Kennedy earlier in the decade.",
+    "background": "The mission came amid the Cold War-era Space Race between the United States and the Soviet Union, following the Soviet Union's early lead with satellite and human spaceflight milestones in the late 1950s and early 1960s.",
+    "causes": [
+      "Cold War competition for technological and ideological prestige",
+      "President John F. Kennedy's 1961 commitment to a crewed lunar landing by decade's end",
+      "Sustained investment in the U.S. space program through NASA"
+    ],
+    "keyPeople": [
+      { "name": "Neil Armstrong", "role": "Commander; first person to walk on the Moon" },
+      { "name": "Buzz Aldrin", "role": "Lunar module pilot; second person on the Moon" },
+      { "name": "Michael Collins", "role": "Command module pilot, remained in lunar orbit" }
+    ],
+    "timeline": [
+      { "year": "1961", "label": "Kennedy announces the goal of a crewed Moon landing" },
+      { "year": "1969 (Jul 16)", "label": "Apollo 11 launches from Kennedy Space Center" },
+      { "year": "1969 (Jul 20)", "label": "Lunar module Eagle lands; Armstrong steps onto the Moon" },
+      { "year": "1969 (Jul 24)", "label": "Crew safely returns to Earth" }
+    ],
+    "mapNote": "Launched from Cape Kennedy, Florida, with the lunar landing occurring in the Sea of Tranquility on the Moon.",
+    "consequences": [
+      "United States achieves the first crewed Moon landing, effectively ending the lunar phase of the Space Race",
+      "Major advances in aerospace, computing, and materials technology",
+      "Renewed global public interest in space exploration"
+    ],
+    "longTermImpact": "Apollo 11 remains a defining symbol of 20th-century technological achievement and laid groundwork for subsequent space exploration programs.",
+    "tags": ["Space Race", "NASA", "Cold War", "20th century"],
+    "references": [
+      { "label": "NASA — Apollo 11 Mission Overview", "url": "https://www.nasa.gov/mission/apollo-11/", "publisher": "NASA" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "american-civil-war",
+    "title": "The American Civil War",
+    "century": "19th century",
+    "continent": "North America",
+    "category": "War & Conflict",
+    "yearStart": 1861,
+    "yearEnd": 1865,
+    "imageUrl": "/events/american-civil-war.svg",
+    "summary": "A four-year war between the Union and the secessionist Confederacy, fought primarily over slavery and states' rights, ending in Union victory and the abolition of slavery.",
+    "background": "Deep sectional divisions over the future of slavery, especially in new territories, had grown for decades, intensifying after the 1860 election of Abraham Lincoln, whose party opposed slavery's expansion.",
+    "causes": [
+      "Long-standing disputes over the expansion of slavery into new territories",
+      "Southern states' secession following Lincoln's 1860 election",
+      "Diverging economic systems between the industrial North and agrarian, slaveholding South",
+      "Disputes over federal versus states' rights"
+    ],
+    "keyPeople": [
+      { "name": "Abraham Lincoln", "role": "President of the United States", "leaderSlug": "abraham-lincoln" },
+      { "name": "Ulysses S. Grant", "role": "Union general, later President" },
+      { "name": "Robert E. Lee", "role": "Confederate general" }
+    ],
+    "timeline": [
+      { "year": "1860", "label": "Lincoln elected president; South Carolina secedes" },
+      { "year": "1861", "label": "War begins at Fort Sumter" },
+      { "year": "1863", "label": "Emancipation Proclamation; Battle of Gettysburg" },
+      { "year": "1865", "label": "Confederate surrender at Appomattox; Lincoln assassinated" }
+    ],
+    "mapNote": "Fought primarily across the Southern and border states of the United States, with major campaigns in Virginia, Tennessee, and the Mississippi Valley.",
+    "consequences": [
+      "Abolition of slavery via the Thirteenth Amendment",
+      "Preservation of the United States as a single nation",
+      "Beginning of the Reconstruction era",
+      "Hundreds of thousands of deaths, the deadliest conflict in U.S. history"
+    ],
+    "longTermImpact": "The war's outcome ended slavery in the United States and set in motion long, contested struggles over civil rights and federal authority that continued for generations.",
+    "tags": ["Slavery", "Union", "Confederacy", "19th century"],
+    "references": [
+      { "label": "Britannica — American Civil War", "url": "https://www.britannica.com/event/American-Civil-War", "publisher": "Encyclopaedia Britannica" }
+    ],
+    "featured": false
+  }
+]
