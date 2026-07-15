@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="500">
   <!-- Background image -->
-  <image href="abhaham lincoln.jpg.jpg" x="0" y="0" width="400" height="500" />
+  <img src="abhaham lincoln.jpg.jpg" x="0" y="0" width="400" height="500" />
 
   <!-- Gradients -->
   <defs>
