@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="500">
   <!-- Background image -->
-  <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/500px-Abraham_Lincoln_O-77_matte_collodion_print.jpg" 
-         x="0" y="0" width="400" height="500" />
+  <image href="lincoln.jpg" x="0" y="0" width="400" height="500" />
 
   <!-- Gradients -->
   <defs>
@@ -21,3 +20,4 @@
   <!-- Border -->
   <rect x="24" y="24" width="352" height="452" fill="none" stroke="#C6A15B" stroke-width="1"/>
 </svg>
+
