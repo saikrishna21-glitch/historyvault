@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="500">
   <!-- Background image -->
-  <image href="abraham.webp" x="0" y="0" width="400" height="500" />
+  <image href="abraham.png" x="0" y="0" width="400" height="500" />
 
   <!-- Gradients -->
   <defs>
